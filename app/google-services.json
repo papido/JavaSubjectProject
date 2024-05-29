@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823412622197",
+    "project_id": "mobileanalytics-5a77a",
+    "storage_bucket": "mobileanalytics-5a77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823412622197:android:94dece847a00511b4b893c",
+        "android_client_info": {
+          "package_name": "com.company.projectnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw4Hbq27y8sze0tCeYudTuWB95XAR7jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
